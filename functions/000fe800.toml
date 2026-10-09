@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:49:47.977634Z
+addr = 0xfe800
+size = 0x35a
+name = "SC_DumpWorld_CommandHandler"
+type = "long long"
+
+[header]
+name = "SC_DumpWorld_CommandHandler"
+addr = 0xfe800
+type = "long long"
+
+[header.args]
